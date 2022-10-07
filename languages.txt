@@ -1,0 +1,36 @@
+Action Script
+C++
+C#
+ColdFusion
+D
+Dart
+Object Pascal
+Dylan
+Eiffel
+Game Maker Language
+Groovy
+Haxe
+Io
+Java
+JavaScript
+MC#
+Object Pascal
+Objective-C
+Perl
+PHP
+Pike
+Python
+Ruby
+Self
+Simula
+Smalltalk
+Swift
+Vala
+Visual Basic
+Visual DataFlex
+Zonnon
+Ada
+Активный Оберон
+Компонентный Паскаль
+Модула-3
+Оберон-2
